@@ -16,20 +16,6 @@ This repository contains the following key files and code snippets:
 2. Clustering Code: This code is for reference and includes clustering techniques, specifically K-Means clustering, for analyzing censorship data.
 3. Decision Tree Code: This code is for reference and demonstrates the decision tree classification approach to identify censorship patterns.
 
-### **Requirements**
-
-1. pandas: For data manipulation and analysis.
-2. csv: For reading and writing CSV files.
-3. math: For mathematical operations.
-4. numpy: For numerical operations and handling arrays.
-5. matplotlib.pyplot: For plotting graphs and visualizations.
-6. collections.Counter: For counting elements in a collection.
-7. collections.defaultdict: For working with dictionaries with default values.
-8. sklearn.model_selection.KFold: For cross-validation and splitting the dataset.
-9. gensim: For Word2Vec embedding and natural language processing.
-10. sklearn.preprocessing.normalize: For normalizing data.
-11. sklearn.metrics.rand_score, adjusted_rand_score: For evaluating clustering performance using Rand Index.
-12. google.colab.files: For uploading files in Colab.
 
 ### **Project Code**
 
